@@ -2,5 +2,5 @@
 
 ---
 
-## Overview
-Description
+## Mastering Project Autonomy
+Mastering Project Autonomy
